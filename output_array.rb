@@ -1,0 +1,9 @@
+
+# Array
+
+
+
+array = [15, 7, 18, 5, 12, 8, 5, 1]
+
+p array.index(5)
+p array[5]
